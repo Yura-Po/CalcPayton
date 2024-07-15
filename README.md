@@ -1,2 +1,0 @@
-# CalcPayton
-ForPraktik2
